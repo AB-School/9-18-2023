@@ -69,7 +69,7 @@ tri1.set_color("yellow")
 
 
 rect1.draw()
-tri1.draw()
+tri1.draw() (This doesn't want to work because i have to set MULTIPLE x's and it won't let me so thats great!)
 oval1.draw()
 
 
